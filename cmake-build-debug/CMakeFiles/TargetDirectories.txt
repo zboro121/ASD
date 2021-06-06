@@ -1,0 +1,3 @@
+C:/Users/pazwik/Desktop/Pawel_ASD/cmake-build-debug/CMakeFiles/Pawel_ASD.dir
+C:/Users/pazwik/Desktop/Pawel_ASD/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pazwik/Desktop/Pawel_ASD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
